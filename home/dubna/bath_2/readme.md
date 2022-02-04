@@ -25,3 +25,8 @@ Cersanit Calla 54
 ![](img.png)
 
 ![](img_1.png)
+
+Раковина 60 см Kolo Nova Pro M31861000
+
+![](kola.png)
+![](kola2.png)
