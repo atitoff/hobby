@@ -4,6 +4,12 @@
 
 ![](block-schema.svg)
 
+
+## Лестничный регулятор громкости
+
+* [online calculator](http://www.eijndhoven.net/jos/attenuator-calculator/index.html)
+
+
 ## Выходной каскад
 
 * [Analog Crossover Audio Plug-In Module](slau742.pdf)  
@@ -15,4 +21,3 @@
 
 ![](out1.png)
 
-![](1234.svgz)
