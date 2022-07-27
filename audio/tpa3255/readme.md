@@ -16,7 +16,7 @@
 * [Multi-Device Configuration for TPA32xx Amplifiers](slaa787.pdf)  
 * [TPA3255EVM Schematic](slar129a.pdf)
 
-
+![](shui yuan audio.png)
 
 
 ![](out1.png)
