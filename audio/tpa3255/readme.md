@@ -5,6 +5,12 @@
 ![](block-schema.svg)
 
 
+## Диаграммы сигнала
+
+![](volume_diagram.svg)
+
+## Фильтры
+
 ## Лестничный регулятор громкости
 
 * [online calculator](http://www.eijndhoven.net/jos/attenuator-calculator/index.html)
