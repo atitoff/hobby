@@ -2,4 +2,4 @@
 
 ## Бойлерная
 
-* [циркуляция ГВС и батарей](boiler/circulation_gvs.md)
+* [циркуляция ГВС и батарей](boiler/circulation_gvs/readme.md)
