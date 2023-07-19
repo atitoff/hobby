@@ -18,6 +18,11 @@
 Неплохой с низким [сопротивлением](https://aliexpress.ru/item/1005004901655940.html) 0,7 мОм.
 При токе 20 А (400 Вт) потери составят 14 мВ или 0,28 Вт
 
+<details>
+  <summary>Подробнее</summary>
+
 ![](bms.png)
 
 ![bms1.png](bms1.png)
+
+</details>
