@@ -6,5 +6,4 @@
 
 [Аквариум](aquarium/readme.md)
 
-
 [Разное](tuttifrutti/readme.md)
