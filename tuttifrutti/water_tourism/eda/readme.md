@@ -2,8 +2,7 @@
 
 ## Сушеные блюда
 
-### Борщ
-
+<!--- Борщ -->
 <details>
   <summary>Борщ</summary>
 
@@ -23,6 +22,7 @@
 
 </details>
 
+[comment]: <> (Каша по купечески)
 <details>
   <summary>Каша по купечески</summary>
 
