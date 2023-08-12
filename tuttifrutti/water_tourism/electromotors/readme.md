@@ -37,7 +37,8 @@
 
 MPPT контроллер на базе cn3791 [dse-cn3791.pdf](solar/dse-cn3791.pdf)
 
-![](solar/cn3791.png)
+![cn3791.png](solar/cn3791.png)
+
 ### BMS
 
 Неплохой с низким [сопротивлением](https://aliexpress.ru/item/1005004901655940.html) 0,7 мОм.
